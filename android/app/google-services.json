@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402483488816",
+    "project_id": "mark2-cb335",
+    "storage_bucket": "mark2-cb335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402483488816:android:70ed67b4ed0ea1360265f5",
+        "android_client_info": {
+          "package_name": "com.example.mk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402483488816-59niv30v95t9h3bgsi47rsfe36bef7d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpbEmn4moDSJSOS4K40O6CYyS8-sf7rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402483488816-59niv30v95t9h3bgsi47rsfe36bef7d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
